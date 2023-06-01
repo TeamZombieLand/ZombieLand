@@ -11,15 +11,14 @@ Zombieland - Survival Game powers where players are financially rewarded for the
 ### Project Test Instructions:
 
 * Login to Metamask from Desktop or Laptop
-* Add Bittorrent Testnet in Metamask
-* Make sure you have enough BTTC Testnet coins in account
+* Add Bittorrent Mainnet in Metamask
+* Make sure you have enough BTTC Mainnet coins in account
 * Login into game from Desktop or Laptop
 * Start your adventure
 
 ### Contract Address:
-
-https://testnet.bttcscan.com/address/0x51b75B42deea2907749234d746e56D4AfA4C01BA
-https://testnet.bttcscan.com/token/0xA767C19343dAFE72fe83cE3BCfD0a8D47D173591
+https://bttcscan.com/token/0x144f30dd3e1d41313a33e4129a232eeb7e3b5d45
+https://bttcscan.com/address/0x8ecb1a0f5fb3d989420da04530ba050ed5bdd9ca
 
 
 
