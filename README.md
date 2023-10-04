@@ -1,7 +1,7 @@
 ![ZombieLand v2.00](/Build/logo.png)
 Zombieland - Survival Game v2.00 is classic web3 game with DeFi, NFT and many more in game upgrades and different weapons to survive in zombieland.
 
-### [Click here to Play ZombieLand v2.00](https://zombieland.vrweb3games.com/)
+### [Click here to Play ZombieLand v2.00](https://zombieland.online/)
 
 ### Project Info:
 Zombieland - Survival Game stands as the combination of the words “game” and “finance”. In doing so, GameFi brings together Bittorrent blockchain technology, including NFTs, cryptocurrencies and decentralization, and advanced gaming mechanics where players can generate income from simply playing and enjoying their gaming experience.
